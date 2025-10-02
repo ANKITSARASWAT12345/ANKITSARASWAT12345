@@ -43,8 +43,9 @@ I love exploring **DevOps, Cloud Technologies, and Machine Learning**, and I enj
 ---
 
 ### 📊 GitHub Stats
-![Ankit's GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=tokyonight)  
+![Ankit's GitHub stats](https://github-readme-stats.vercel.app/api?username=ANKITSARASWAT12345&show_icons=true&theme=tokyonight)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ANKITSARASWAT12345&layout=compact&theme=tokyonight) 
+![GitHub Streak](https://streak-stats.demolab.com/?user=ANKITSARASWAT12345&theme=tokyonight)
 
 ---
 
