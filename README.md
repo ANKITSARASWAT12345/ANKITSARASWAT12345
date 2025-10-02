@@ -41,30 +41,35 @@ I love exploring **DevOps, Cloud Technologies, and Machine Learning**, and I enj
 - [ML Explorations](https://github.com/yourusername/ml-notebooks) – **Machine Learning & Data Science notebooks**  
 
 ---
+## 📊 My GitHub & Problem Solving Stats
 
-### Leetcode Info
+<p align="center">
+  <!-- GitHub stats -->
+  <img src="https://github-readme-stats.vercel.app/api?username=ankitsaraswat&show_icons=true&theme=tokyonight" alt="GitHub stats" />
+  &nbsp;&nbsp;
+  <!-- Top languages: hide C so Java appears as top language -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ankitsaraswat&layout=compact&theme=tokyonight&langs_count=6&hide=c" alt="Top languages" />
+</p>
 
-<!-- LeetCode badge (shields.io style) -->
-[![LeetCode](https://img.shields.io/badge/LeetCode-Ankit1947Saraswat-FF4301?logo=leetcode&logoColor=white)](https://leetcode.com/Ankit1947Saraswat)
+<p align="center">
+  <!-- GitHub Streak -->
+  <img src="https://streak-stats.demolab.com/?user=ankitsaraswat&theme=tokyonight" alt="GitHub Streak" />
+</p>
 
-<!-- HackerRank badge (shields.io style) -->
-[![HackerRank](https://img.shields.io/badge/HackerRank-@ankit1256sarasw1-2EC866?logo=hackerrank&logoColor=white)](https://www.hackerrank.com/@ankit1256sarasw1)
+<p align="center">
+  <!-- Dynamic LeetCode stats (third-party service) -->
+  <a href="https://leetcode.com/Ankit1947Saraswat" target="_blank" rel="noopener">
+    <img src="https://leetcode-badge.vercel.app/api?username=Ankit1947Saraswat" alt="LeetCode Stats" />
+  </a>
 
+  &nbsp;&nbsp;
 
+  <!-- HackerRank profile badge (links to your HackerRank profile) -->
+  <a href="https://www.hackerrank.com/ankit1256sarasw1" target="_blank" rel="noopener">
+    <img src="https://img.shields.io/badge/HackerRank-ankit1256sarasw1-2EC866?logo=hackerrank&logoColor=white" alt="HackerRank Profile" />
+  </a>
+</p>
 
-
----
-
-### 📊 GitHub Stats
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ANKITSARASWAT12345&layout=compact&theme=tokyonight&langs_count=5)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ANKITSARASWAT12345&layout=compact&theme=tokyonight) 
-![GitHub Streak](https://streak-stats.demolab.com/?user=ANKITSARASWAT12345&theme=tokyonight)
-
----
-
-### 🌐 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)  
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?logo=github&logoColor=white)](https://yourwebsite.com)  
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&logoColor=white)](https://twitter.com/yourusername)  
 
