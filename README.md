@@ -44,10 +44,12 @@ I love exploring **DevOps, Cloud Technologies, and Machine Learning**, and I enj
 
 ### Leetcode Info
 
-[![HackerRank Profile](https://img.shields.io/badge/HackerRank-Profile-2EC866?logo=hackerrank&logoColor=white)](https://www.hackerrank.com/@ankit1256sarasw1)
+<!-- LeetCode badge (shields.io style) -->
+[![LeetCode](https://img.shields.io/badge/LeetCode-Ankit1947Saraswat-FF4301?logo=leetcode&logoColor=white)](https://leetcode.com/Ankit1947Saraswat)
 
+<!-- HackerRank badge (shields.io style) -->
+[![HackerRank](https://img.shields.io/badge/HackerRank-@ankit1256sarasw1-2EC866?logo=hackerrank&logoColor=white)](https://www.hackerrank.com/@ankit1256sarasw1)
 
-[![LeetCode Stats](https://leetcode-badge.vercel.app/api?username=Ankit1947Saraswat)](https://leetcode.com/Ankit1947Saraswat)
 
 
 
