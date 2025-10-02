@@ -42,6 +42,17 @@ I love exploring **DevOps, Cloud Technologies, and Machine Learning**, and I enj
 
 ---
 
+### Leetcode Info
+
+<!-- LeetCode badge (shields.io style) -->
+[![LeetCode](https://img.shields.io/badge/LeetCode-Ankit1947Saraswat-FF4301?logo=leetcode&logoColor=white)](https://leetcode.com/YOUR_USERNAME)
+
+<!-- HackerRank badge (shields.io style) -->
+[![HackerRank](https://img.shields.io/badge/HackerRank-@ankit1256sarasw1-2EC866?logo=hackerrank&logoColor=white)](https://www.hackerrank.com/YOUR_USERNAME)
+
+
+---
+
 ### 📊 GitHub Stats
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ANKITSARASWAT12345&layout=compact&theme=tokyonight&langs_count=5)
 
