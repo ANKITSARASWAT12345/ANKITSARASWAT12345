@@ -29,7 +29,7 @@ I love exploring **DevOps, Cloud Technologies, and Machine Learning**, and I enj
 ![AWS](https://img.shields.io/badge/AWS-232F3E?logo=amazon-aws&logoColor=white) 
 ![CI/CD](https://img.shields.io/badge/GitHub_Actions-2088FF?logo=github-actions&logoColor=white)  
 
-**Tools & IDEs:**  
+**Tools & IDEs:**
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white) 
 ![VS Code](https://img.shields.io/badge/VSCode-007ACC?logo=visual-studio-code&logoColor=white)  
 
