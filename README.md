@@ -41,7 +41,7 @@ I love exploring **DevOps, Cloud Technologies, and Machine Learning**, and I enj
 - [ML Explorations](https://github.com/yourusername/ml-notebooks) – **Machine Learning & Data Science notebooks**  
 
 ---
-## 📊 My GitHub & Problem Solving Stats
+## 📊 My GitHub & Problem Solving  Stats
 
 <p align="center">
   <!-- GitHub stats -->
