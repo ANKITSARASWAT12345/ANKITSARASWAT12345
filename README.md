@@ -75,7 +75,7 @@ I love exploring **DevOps, Cloud Technologies, and Machine Learning**, and I enj
 
 ---
 
-### ⚡ Fun Fact
+### ⚡ Fun Facts
 I solve **DSA problems daily** and love learning **new tech**.  
 Currently exploring **system design patterns, cloud architecture, and AI/ML applications**.  
 
