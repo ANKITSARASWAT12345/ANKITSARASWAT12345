@@ -6,7 +6,7 @@ I'm a **Java Backend Developer** with a passion for building scalable applicatio
 I love exploring **DevOps, Cloud Technologies, and Machine Learning**, and I enjoy solving DSA problems and contributing to open-source projects.  
 
 - 🔭 Currently working on **backend projects with Spring Boot and Microservices**  
-- 🌱 Currently learning **System Design, AWS, Docker, Kubernetes, and Generative AI**  
+- 🌱 Currently learning **System Design, AWS, Docker, Kubernetes, and Generative AI**
 - 👯 Open to collaboration on **open-source projects and interesting backend/AI solutions**  
 - 💬 Ask me about **Java, Spring Boot, DevOps, and ML/AI**  
 
